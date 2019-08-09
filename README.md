@@ -1,6 +1,6 @@
 # gerenciador-livros
 
-API de demonstração de gerenciador de livros. Feita com Java, Spring Boot e H2.
+API de demonstração de gerenciador de livros. Feita com Java 11, Spring Boot e H2.
 
 ### Para compilar
 Utilizar o Maven através da linha de comando "mvn clean package".
